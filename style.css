@@ -1,0 +1,22 @@
+.libre-franklin{
+    font-family: 'Libre Franklin', sans-serif;
+}
+.ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+.comfortaa{
+    font-family: 'Comfortaa', cursive;
+}
+.img{
+    height:280px;
+    width:295px;
+}
+#button{
+    box-shadow: 2px 3px 2px #acacac;
+}
+.title,#copyright{
+    text-shadow: 2px 2px 2px #d4d4d4;  
+}
+.dance-stage{
+    background-color: antiquewhite;
+}
